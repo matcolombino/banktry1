@@ -10,7 +10,7 @@ namespace BankTest
     internal class Account
     {
         public string _numero;
-        public string Nome { get; private set; }       
+        public string Nome { get; set; }       
         
         public double Saldo { get; private set; }
 
@@ -44,9 +44,10 @@ namespace BankTest
             Saldo -= valor +5;
         }
 
+
         public override string ToString()
         {
-            return $"Conta: {_numero}, titular: {Nome}, saldo: R${Saldo.ToString("F2")}";
+            return $"Conta {_numero}, Titular: {Nome}, Saldo: {Saldo.ToString("F2", CultureInfo.InvariantCulture)}";
         }
 
     }
