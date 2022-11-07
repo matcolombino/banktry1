@@ -1,0 +1,8 @@
+C:\Users\mateu\source\repos\BankTest\BankTest\bin\Debug\BankTest.exe.config
+C:\Users\mateu\source\repos\BankTest\BankTest\bin\Debug\BankTest.exe
+C:\Users\mateu\source\repos\BankTest\BankTest\bin\Debug\BankTest.pdb
+C:\Users\mateu\source\repos\BankTest\BankTest\obj\Debug\BankTest.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\BankTest\BankTest\obj\Debug\BankTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateu\source\repos\BankTest\BankTest\obj\Debug\BankTest.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\BankTest\BankTest\obj\Debug\BankTest.exe
+C:\Users\mateu\source\repos\BankTest\BankTest\obj\Debug\BankTest.pdb
